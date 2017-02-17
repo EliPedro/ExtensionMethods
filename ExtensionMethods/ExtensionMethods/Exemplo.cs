@@ -40,8 +40,8 @@ namespace ExtensionMethods
 
             var pessoa = new Pessoa
             {
-                Nome = "Eli",
-                Sobrenome = "Pedro"
+                Nome = "Maria",
+                Sobrenome = "Joaquina"
             };
 
             Console.WriteLine("Length: {0} ", pessoa.NomeLength());
