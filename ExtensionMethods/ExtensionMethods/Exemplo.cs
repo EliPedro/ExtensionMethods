@@ -13,14 +13,10 @@ namespace ExtensionMethods
         public string Nome { get; set; }
         public string Sobrenome { get; set; }
 
-
         public string FormatarNome()
         {
-
             return Nome + "" + Sobrenome;
         }
-
-
 
     }
 
